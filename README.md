@@ -2,7 +2,4 @@
 
 <!--
 **AbdulhakimZatar/AbdulhakimZatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) apaeepears on your GitHub profile.
-**AbdulhakimZatar/AbdulhakimZatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHeagub profile.
 
-Here are some ideas to get you started:
-aeg
