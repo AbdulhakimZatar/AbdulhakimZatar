@@ -1,7 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhakimzatar&count_private=true&show_icons=true&theme=dracula&hide_rank=true)
+## Hey World 🌎 I'm Abdulhakim 👋🏻
 
-<!--
-**AbdulhakimZatar/AbdulhakimZatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) apaeepears on your GitHub profile.
 
 
 ## Current Tech Toolkit 🧰
@@ -21,18 +19,17 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Chart.JS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulhakimZatar&layout=compact&theme=cobalt&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhakimzatar&count_private=true&show_icons=true&theme=dracula&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulhakimZatar&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 - 💌  <a href="mailto:hakimzatar@gmail.com">Gmail</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakim-zatar/)
 
-# 
-![](https://komarev.com/ghpvc/?username=AbdulhakimZatar&color=e582d8&style=flat)
 
-<!-- [![Lydia's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdulhakimZatar&theme=dracula)](https://github.com/LydiaMT/github-readme-activity-graph) -->
+
 
